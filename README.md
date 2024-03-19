@@ -10,10 +10,10 @@ I am a technology enthusiast with a proactive and dynamic attitude, always ready
 
 # 🛠️ Proyectos:
 
-- [Proyecto 1](https://github.com/tu_usuario/proyecto-1)
-- [Proyecto 2](https://github.com/tu_usuario/proyecto-2)
-- [Proyecto 3](https://github.com/tu_usuario/proyecto-3)
-- [Proyecto 4](https://github.com/tu_usuario/proyecto-4)
+- [Sistema clino dental](https://clinica-dental-odontocion.web.app/#/)
+- [Examen digital de FIS200]([https://github.com/tu_usuario/proyecto-2](https://play.google.com/store/apps/details?id=com.usfx.fis200))
+- [Gestiona tus entras y salidas diarias](https://play.google.com/store/apps/details?id=victor.app.apz)
+- [SEDEGES - Gestion de Albergues]([https://github.com/tu_usuario/proyecto-4](https://orbital-nuance-276718.web.app/#/admin/registros))
 
 <!--
 # 📊 GitHub Stats:
