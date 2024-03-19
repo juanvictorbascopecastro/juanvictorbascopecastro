@@ -10,10 +10,11 @@ I am a technology enthusiast with a proactive and dynamic attitude, always ready
 
 # 🛠️ Proyectos:
 
-- [Sistema clino dental](https://clinica-dental-odontocion.web.app/#/) <!-- target="https://clinica-dental-odontocion.web.app/#/" -->
-- [Examen digital de FIS200](https://play.google.com/store/apps/details?id=com.usfx.fis200) <!-- target="https://clinica-dental-odontocion.web.app/#/" -->
-- [Gestiona tus entras y salidas diarias](https://play.google.com/store/apps/details?id=victor.app.apz) <!-- target="_blank" -->
-- [SEDEGES - Gestion de Albergues](https://orbital-nuance-276718.web.app/#/admin/registros) <!-- target="_blank" -->
+- [Sistema clino dental](https://clinica-dental-odontocion.web.app/#/){:target="_blank"}
+- [Examen digital de FIS200](https://play.google.com/store/apps/details?id=com.usfx.fis200){:target="_blank"}
+- [Gestiona tus entras y salidas diarias](https://play.google.com/store/apps/details?id=victor.app.apz){:target="_blank"}
+- [SEDEGES - Gestion de Albergues](https://orbital-nuance-276718.web.app/#/admin/registros){:target="_blank"}
+
 
 <!--
 # 📊 GitHub Stats:
