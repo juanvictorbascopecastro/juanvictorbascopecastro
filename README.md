@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un entusiasta de la tecnología con una actitud proactiva y dinámica, siempre dispuesto a resolver problemas y enfrentar imprevistos utilizando algoritmos y soluciones creativas. Me adapto con facilidad a equipos de desarrollo. Constantemente busco estar al tanto de las últimas tendencias tecnológicas y tengo una sed de conocimiento insaciable. Mi capacidad de coordinación me permite desempeñarme eficazmente en diversas tareas, satisfaciendo tanto las necesidades internas de la empresa como las expectativas de los clientes de manera eficiente.
+I am a technology enthusiast with a proactive and dynamic attitude, always ready to solve problems and tackle challenges using algorithms and creative solutions. I adapt easily to development teams and am constantly seeking to stay updated on the latest technological trends, with an insatiable thirst for knowledge. My coordination skills allow me to effectively handle various tasks, satisfying both the internal needs of the company and the expectations of clients efficiently.
 
 
 ## 🌐 Socials:
