@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Soy un entusiasta de la tecnología con una actitud proactiva y dinámica, siempre dispuesto a resolver problemas y enfrentar imprevistos utilizando algoritmos y soluciones creativas. Me adapto con facilidad a equipos de desarrollo y estoy familiarizado con una variedad de lenguajes de programación, herramientas y entornos de trabajo. Constantemente busco estar al tanto de las últimas tendencias tecnológicas y tengo una sed de conocimiento insaciable. Mi capacidad de coordinación me permite desempeñarme eficazmente en diversas tareas, satisfaciendo tanto las necesidades internas de la empresa como las expectativas de los clientes de manera eficiente.
 <!--
 **juanvictorbascopecastro/juanvictorbascopecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
