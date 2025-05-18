@@ -40,6 +40,7 @@ I am a technology enthusiast with a proactive and dynamic attitude, always ready
 
 
 # 🛠️ Proyectos:
+- [Radio Veritas Santo Domingo](https://play.google.com/store/apps/details?id=radio.verita.comarapa)
 - [Reproductor de YouTube, en segundo plano "Proyecto Personal"](https://github.com/juanvictorbascopecastro/My-Music-Video)
 - [WorkTrack](https://play.google.com/store/apps/details?id=app.employees)
 - [Facturacion electronica con SIAT](https://play.google.com/store/apps/details?id=com.iosoftware.fact)
