@@ -2,7 +2,7 @@
 
 ### Systems Engineer & Software Developer
 
-Software Developer specializing in building scalable systems and full-stack solutions. I am a proactive and dynamic professional who easily adapts to collaborative team environments. My approach is centered on deeply understanding business processes to plan, design, and deliver optimal end-to-end solutions. My portfolio includes comprehensive platforms for the healthcare sector, AI agent integrations, real-time biometric control systems, and robust RESTful APIs for national tax services. I have deep expertise in server-side development using Node.js, Java (Spring Boot), and PHP, alongside real-time communication with Socket.io. Beyond the backend, I develop cross-platform mobile applications using Flutter and native Android, and craft modern web interfaces with Vue.js and Angular. Using agile methodologies like Scrum, I actively contribute to the entire software project lifecycle: analysis, design, implementation, and support.
+processes to plan, design, and deliver optimal end-to-end solutions. My portfolio includes comprehensive platforms for the healthcare sector, AI agent integrations, real-time biometric control systems, and robust RESTful APIs for national tax services. For server-side development, I work with Node.js, Java (Spring Boot), and PHP, alongside real-time communication using Socket.io. Beyond the backend, I develop cross-platform mobile applications using Flutter and native Android, and craft modern web interfaces with Vue.js and Angular. Using agile methodologies like Scrum, I actively contribute to the entire software project lifecycle: analysis, design, implementation, and support.
 
 ## 🌐 Contact & Socials:
 
