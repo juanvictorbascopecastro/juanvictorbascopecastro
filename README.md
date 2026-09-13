@@ -1,29 +1,29 @@
-# 💫 About Me:
+# 💫 Juan Victor Bascope Castro
 
-### Ingeniero de Sistemas con enfoque en desarrollo de software
+### Systems Engineer & Software Developer
 
-Desarrollador con más de 5 años de experiencia, especializado en el lado del servidor, construyendo sistemas escalables y funcionalidades en tiempo real con Node.js, Express, Java (Spring Boot), PHP y Google Cloud Functions, incluyendo comunicación en tiempo real mediante Socket.io. Cuento también con experiencia en desarrollo móvil, iniciando con Android nativo en Java y evolucionando hacia soluciones multiplataforma con Flutter para Android e iOS. En el frontend, he trabajado con Vue.js (versiones 2 y 3, tanto con Options API como Composition API) y Angular para la creación de interfaces modernas y responsivas. Me desempeño en equipos colaborativos aplicando metodologías ágiles como Scrum, participando en todo el ciclo de vida de proyectos de software: análisis, diseño, implementación y soporte.
+Software Developer specializing in building scalable systems and full-stack solutions. I am a proactive and dynamic professional who easily adapts to collaborative team environments. My approach is centered on deeply understanding business processes to plan, design, and deliver optimal end-to-end solutions. My portfolio includes comprehensive platforms for the healthcare sector, AI agent integrations, real-time biometric control systems, and robust RESTful APIs for national tax services. I have deep expertise in server-side development using Node.js, Java (Spring Boot), and PHP, alongside real-time communication with Socket.io. Beyond the backend, I develop cross-platform mobile applications using Flutter and native Android, and craft modern web interfaces with Vue.js and Angular. Using agile methodologies like Scrum, I actively contribute to the entire software project lifecycle: analysis, design, implementation, and support.
 
-## 🌐 Contacto y Redes:
+## 🌐 Contact & Socials:
 
 [![Email](https://img.shields.io/badge/Email-juan.victor.bascope.castro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juan.victor.bascope.castro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-victor-4a109b186)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://juanvictorbascopecastro.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://juanvictorbascopecastro.github.io)
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
-**Lenguajes:** JavaScript, TypeScript, Java, C#, Dart, PHP, SQL, HTML5, CSS  
+**Languages:** JavaScript, TypeScript, Java, C#, Dart, PHP, SQL, HTML5, CSS  
 **Backend:** Node.js, Express.js, Java (Spring Boot), PHP (Yii 2 Framework), Entity Framework Core  
 **Frontend:** Vue.js (2 & 3), Angular, Tailwind CSS, Bootstrap  
-**Móvil:** Flutter, Android Nativo (Java/Kotlin), iOS  
-**Bases de Datos:** PostgreSQL, Microsoft SQL Server, MySQL, Firebase  
-**Nube e Infraestructura:** Google Cloud, Firebase, Docker, DigitalOcean  
-**Herramientas y Metodologías:** Git, GitHub, GitLab, WebSocket (Socket.io), Postman, APIs RESTful, MVVM, Scrum
+**Mobile:** Flutter, Native Android (Java/Kotlin), iOS  
+**Databases:** PostgreSQL, Microsoft SQL Server, MySQL, Firebase  
+**Cloud & Infrastructure:** Google Cloud, Firebase, Docker, DigitalOcean  
+**Tools & Methodologies:** Git, GitHub, GitLab, WebSocket (Socket.io), Postman, RESTful APIs, MVVM, Scrum
 
 <details>
-<summary>Ver insignias detalladas</summary>
+<summary>View detailed badges</summary>
 <br>
 
 ### 🖥️ Backend
@@ -49,20 +49,20 @@ Desarrollador con más de 5 años de experiencia, especializado en el lado del s
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛢️ Base de Datos
+### 🛢️ Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### ☁️ Infraestructura y Servicios
+### ☁️ Cloud & Infrastructure
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### 🧩 Lenguajes de Programación
+### 🧩 Programming Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -75,36 +75,36 @@ Desarrollador con más de 5 años de experiencia, especializado en el lado del s
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Work Experience
 
-- **Isolcruz** (Septiembre 2025 - Actual) - _Analista Funcional / Desarrollador de Soluciones_
-  Diseño de soluciones técnicas e implementación de sistemas biométricos en tiempo real con Node.js, Vue 3, SQL Server.
-- **Softclinic** (Julio 2025 - Actual) - _Desarrollador Full Stack_
-  Sistema SaaS de gestión para clínicas dentales. Agente de IA, odontograma digital e integración de WhatsApp API (Vue 3).
-- **ioSoftware** (Junio 2024 - Agosto 2025) - _Desarrollador Backend_
-  Desarrollo centrado en el backend con PHP-Yii Framework. Integración de API REST del SIAT (Impuestos Nacionales). Apps multiplataforma con Flutter.
-- **SVTs** (2023 - Mayo 2024) - _Desarrollador Fullstack_
-  Plataforma para el historial clínico dental (web y móvil) con odontograma interactivo. Backend con Java (MVVM), Node.js, Nest.js, Firebase.
-- **PIAR BOLIVIA** (Marzo 2022 - Septiembre 2023) - _Desarrollador Backend_
-  API RESTful robusta para sistema de laboratorios clínicos. Node.js, Express, MySQL.
-- **INFOX TECNOLOGÍA** (2021 - 2022) - _Desarrollador Full Stack_
-  Sistema de gestión contable con Angular y Entity Framework Core (SQL Server).
-- **DYA TECHNOLOGY** (Agosto 2019 - Agosto 2020) - _Desarrollador Full Stack_
-  Desarrollo y diseño de sitios web y aplicaciones para diversos clientes.
+- **Isolcruz** (September 2025 - Present) - _Functional Analyst / Solutions Developer_
+  Designing technical solutions and implementing real-time biometric systems using Node.js, Vue 3, and SQL Server.
+- **Softclinic** (July 2025 - Present) - _Full Stack Developer_
+  SaaS management system for dental clinics. Development of an AI agent, digital odontogram, and WhatsApp API integration (Vue 3).
+- **ioSoftware** (June 2024 - August 2025) - _Backend Developer_
+  Backend-focused development with PHP-Yii Framework. Integration with SIAT REST API (National Taxes). Cross-platform apps using Flutter.
+- **SVTs** (2023 - May 2024) - _Full Stack Developer_
+  Platform for dental clinical records (web and mobile) featuring an interactive odontogram. Backend using Java (MVVM), Node.js, Nest.js, and Firebase.
+- **PIAR BOLIVIA** (March 2022 - September 2023) - _Backend Developer_
+  Robust RESTful API for a clinical laboratory system using Node.js, Express, and MySQL.
+- **INFOX TECNOLOGÍA** (2021 - 2022) - _Full Stack Developer_
+  Accounting management system using Angular and Entity Framework Core (SQL Server).
+- **DYA TECHNOLOGY** (August 2019 - August 2020) - _Full Stack Developer_
+  Development and design of websites and applications for various clients.
 
 ---
 
-## 🛠️ Proyectos y Aplicaciones (Destacados)
+## 🛠️ Featured Projects & Apps
 
 - [**Softclinic (SaaS Dental)**](https://soft-clinic-system.web.app) | [Website](https://softclinic.site.je)
-- [**WorkTrack Bolivia (Android Nativo / Java)**](https://play.google.com/store/apps/details?id=com.softclinic.worktrack) | [Web](https://worktrackbolivia.web.app)
+- [**WorkTrack Bolivia (Native Android / Java)**](https://play.google.com/store/apps/details?id=com.softclinic.worktrack) | [Web](https://worktrackbolivia.web.app)
 - [**Radio Veritas Santo Domingo (Flutter)**](https://play.google.com/store/apps/details?id=com.radio.verita.comarapa)
 - [**Capital for live (Flutter)**](https://play.google.com/store/apps/details?id=com.capitalforlive)
-- [**Reproductor de YouTube en segundo plano (Android / Java)**](https://github.com/juanvictorbascopecastro/My-Music-Video)
-- [**SEDEGES - Gestión de Albergues (Vue 3 & Firebase)**](https://orbital-nuance-276718.web.app/#/admin/registros)
-- [**Facturación Electrónica con SIAT**](https://play.google.com/store/apps/details?id=com.iosoftware.fact)
-- [**Salva a Gerardo - Juego Móvil (Android Nativo)**](https://play.google.com/store/apps/details?id=com.game.gerardo)
-- [**Examen digital de FIS200 📱**](https://play.google.com/store/apps/details?id=com.usfx.fis200)
+- [**Background YouTube Player (Android / Java)**](https://github.com/juanvictorbascopecastro/My-Music-Video)
+- [**SEDEGES - Shelter Management (Vue 3 & Firebase)**](https://orbital-nuance-276718.web.app/#/admin/registros)
+- [**Electronic Billing with SIAT**](https://play.google.com/store/apps/details?id=com.iosoftware.fact)
+- [**Save Gerardo - Mobile Game (Native Android)**](https://play.google.com/store/apps/details?id=com.game.gerardo)
+- [**Digital Exam for FIS200 📱**](https://play.google.com/store/apps/details?id=com.usfx.fis200)
 
 ---
 
